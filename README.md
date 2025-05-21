@@ -1,5 +1,5 @@
 
-# 🏡 Airbnb EDA Project – [City/Region Name] (Python)
+# 🏡 Airbnb EDA Project
 
 This project focuses on performing **Exploratory Data Analysis (EDA)** on Airbnb listings to understand the dynamics of the short-term rental market in New York City. Using Python and powerful data analysis libraries, we uncover insights about pricing, availability, location trends, and more.
 
